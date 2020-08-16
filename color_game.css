@@ -1,0 +1,80 @@
+.abc{
+  text-align: center;
+  background: rgb(60,132,203);
+  color: white;
+  line-height: 0%;
+  text-transform: uppercase;
+}
+#first{
+  padding-top: 5px;
+}
+#second{
+  margin-bottom: 0px;
+}
+.display-4{
+  line-height: 0.5;
+}
+.nav{
+  background: white;
+  /* color: steelblue; */
+  font-weight: 700;
+  font-size: initial;
+  height: 100%;
+}
+#nav1{
+  margin-left: 30%;
+}
+/* li p{
+  text-align: right;
+  margin-left: 10%;
+  margin-right: auto;
+} */
+/* button{
+  outline: none;
+} */
+/* #nav2{
+  margin-right: 200px;
+} */
+#nav3{
+  margin-right: 25%;
+}
+body{
+  background: #232323;
+  font-family: "avenir";
+}
+.grid{
+  width: 30%;
+  background: rgb(255,255,255);
+  padding-bottom: 25%;
+  float: left;
+  margin: 1.66%;
+  transition: background 0.6s;
+}
+#allgrids{
+  max-width: 600px;
+  margin: 0 auto;
+}
+.selected {
+  background : rgb(0, 132, 255);
+}
+#message {
+  margin-left: 6%;
+  display: inline-block;
+  width: 20%;
+}
+.grid {
+  border-radius: 1rem;
+}
+.btn{
+  outline: none;
+  transition: all 0.4s;
+}
+.btn:hover{
+  background: steelblue;
+  color: white;
+}
+button {
+  border: none;
+  background: none;
+  outline: none;
+}
